@@ -192,7 +192,7 @@ Homework 7 ([PDF]({{< baseurl >}}/resources/hw7))
 
 2004 Homework 7 ([PDF]({{< baseurl >}}/resources/hw7_2004))
 
-2004 Homework 7 Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw7_2004soln))
+2004 Homework 7 Solutions ([PDF]({{< baseurl >}}/resources/hw7_2004soln))
 
 
 {{< tdclose >}}
