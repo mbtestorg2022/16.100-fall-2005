@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains solutions to exercise.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-100-aerodynamics-fall-2005/9c5883a263049934399f6e1cc9159c95_16100lectre20_cg.pdf
 file_type: application/pdf
+parent_uid: aac0011c-aef7-5515-ccc9-354af44ae163
 resourcetype: Document
 title: 16100lectre20_cg.pdf
 uid: 9c5883a2-6304-9934-399f-6e1cc9159c95

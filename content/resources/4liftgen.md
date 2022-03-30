@@ -4,6 +4,7 @@ description: This file contains notes on inviscid momentum in natural coordinate
   impact of camber, impact of thickness, leading-edge behavior etc.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-100-aerodynamics-fall-2005/96f80580fc66734973977820f1411ede_4liftgen.pdf
 file_type: application/pdf
+parent_uid: 2827ef9f-2505-3ad1-ea6f-69f2e59fdf7d
 resourcetype: Document
 title: 4liftgen.pdf
 uid: 96f80580-fc66-7349-7397-7820f1411ede
